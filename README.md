@@ -10,7 +10,7 @@
 | 06  | [Scroll Animation](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/06_scroll_animation)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/06_scroll_animation/index.html)     |
 | 07  | [Split Landing Page](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/07_split_landing_page)     | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/07_split_landing_page/index.html)   |
 | 08  | [Form Wave Animation](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/08_form_wave_animation)   | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/08_form_wave_animation/index.html)  |
-| 09  | [Sound Board](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/09_sound_board)           | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/09_sound_board/index.html)          |
+| 09  | [Sound Board](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/09_sound_board)                   | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/09_sound_board/index.html)          |
 | 10  | [Dad Jokes](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/10_dad_jokes)                       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/10_dad_jokes/index.html)            |
 | 11  | [Event keyCodes](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/11_event_keycodes)             | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/11_event_keycodes/index.html)       |
 | 12  | [FAQ Collapse](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/12_faq_collapse)                 | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/12_faq_collapse/index.html)         |
@@ -19,3 +19,5 @@
 | 15  | [Incrementing Counter](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/15_incrementing_counter) | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/15_incrementing_counter/index.html) |
 | 16  | [Drink Water](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/16_drink_water)                   | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/16_drink_water/index.html)          |
 | 17  | [Movie App](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/17_movie_app)                       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/17_movie_app/index.html)            |
+| 18  | [Background Slider](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/18_background_slider)       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/18_background_slider/index.html)    |
+| 19  | [Theme Clock](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/19_theme_clock)                   | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/19_theme_clock/index.html)          |
