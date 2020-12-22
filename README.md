@@ -21,4 +21,4 @@
 | 17  | [Movie App](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/17_movie_app)                       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/17_movie_app/index.html)            |
 | 18  | [Background Slider](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/18_background_slider)       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/18_background_slider/index.html)    |
 | 19  | [Theme Clock](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/19_theme_clock)                   | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/19_theme_clock/index.html)          |
-| 20  | [Theme Clock](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/20_ripple_effect)                 | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/20_ripple_effect/index.html)        |
+| 20  | [Button Ripple Effect](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/20_ripple_effect)        | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/20_ripple_effect/index.html)        |
