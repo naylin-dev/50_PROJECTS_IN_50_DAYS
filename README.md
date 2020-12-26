@@ -28,4 +28,5 @@
 | 24  | [Content Placeholder](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/24_content_placeholder)       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/24_content_placeholder/)    |
 | 25  | [Sticky Navigation](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/25_sticky_navbar)               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/25_sticky_navbar/)          |
 | 26  | [Double Vertical Slider](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/26_double_vertical_slider) | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/26_double_vertical_slider/) |
-| 27  | [Double Vertical Slider](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/27_toast_notification)     | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/27_toast_notification/)     |
+| 27  | [Toast Notification](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/27_toast_notification)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/27_toast_notification/)     |
+| 28  | [Github Profiles](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/28_github_profiles)               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/28_github_profiles/)        |
