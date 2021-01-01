@@ -35,3 +35,4 @@
 | 31  | [Password Generator](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/31_password_generator)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/31_password_generator/)     |
 | 32  | [Good Cheap Fast](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/32_good_cheap_fast)               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/32_good_cheap_fast/)        |
 | 33  | [Notes App](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/33_notes_app)                           | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/33_notes_app/)              |
+| 34  | [Animated Countdown](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/34_animated_countdown)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/34_animated_countdown/)     |
