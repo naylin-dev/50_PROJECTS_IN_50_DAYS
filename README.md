@@ -34,3 +34,4 @@
 | 30  | [Auto Text Effect](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/30_auto_text_effect)             | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/30_auto_text_effect/)       |
 | 31  | [Password Generator](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/31_password_generator)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/31_password_generator/)     |
 | 32  | [Good Cheap Fast](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/32_good_cheap_fast)               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/32_good_cheap_fast/)        |
+| 33  | [Notes App](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/33_notes_app)                           | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/33_notes_app/)              |
