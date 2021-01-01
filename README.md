@@ -31,3 +31,4 @@
 | 27  | [Toast Notification](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/27_toast_notification)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/27_toast_notification/)     |
 | 28  | [Github Profiles](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/28_github_profiles)               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/28_github_profiles/)        |
 | 29  | [Double Heart Click](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/29_double_heart_click)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/29_double_heart_click/)     |
+| 30  | [Auto Text Effect](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/30_auto_text_effect)             | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/30_auto_text_effect/)       |
