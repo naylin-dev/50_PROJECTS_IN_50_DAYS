@@ -38,3 +38,4 @@
 | 34  | [Animated Countdown](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/34_animated_countdown)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/34_animated_countdown/)     |
 | 35  | [Image Carousel](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/35_image_carousel)                 | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/35_image_carousel/)         |
 | 36  | [Hoverboard](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/36_hoverboard)                         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/36_hoverboard/)             |
+| 37  | [Pokedex](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/37_pokedex)                               | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/37_pokedex/)                |
