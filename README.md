@@ -49,3 +49,4 @@
 | 45  | [Netflix Navigation](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/45_netflix_navigation)                     | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/45_netflix_navigation/)           |
 | 46  | [Quiz App](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/46_quiz_app)                                         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/46_quiz_app/)                     |
 | 47  | [Testimonial Box Switcher](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/47_testimonial_box_switcher)         | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/47_testimonial_box_switcher/)     |
+| 48  | [Random Image Feed](https://github.com/NayLin99/50_PROJECTS_IN_50_DAYS/tree/master/48_random_image_feed)                       | [Live Demo](https://naylin99.github.io/50_PROJECTS_IN_50_DAYS/48_random_image_feed/)            |
