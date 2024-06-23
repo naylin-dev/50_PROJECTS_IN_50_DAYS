@@ -12,12 +12,12 @@ setTimeout(getDate, 1500);
 
 function getDate() {
     header.innerHTML =
-        '<img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80" alt="macbook">';
+        '<img src="img/macbook.png" alt="macbook">';
     title.innerHTML = 'Lorem ipsum dolor sit amet.';
     excerpt.innerHTML =
         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi, culpa!';
     profile_img.innerHTML =
-        '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="">';
+        '<img src="img/profile.png" alt="">';
     name.innerHTML = 'John Doe';
     date.innerHTML = 'Oct 08, 2020';
 
